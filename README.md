@@ -4,11 +4,12 @@ This is an example Python script that uses the [AI Chatbot API](https://rapidapi
 
 ## Getting Started
 
-1. Clone this repository to your local machine.
-2. Install the required Python modules by running `pip install -r requirements.txt`.
-3. Get your RapidAPI API key from the [AI Chatbot API page](https://rapidapi.com/farish978/api/ai-chatbot/).
-4. Replace `"Your Rapid Api Headers Here"` in the script with your RapidAPI API key.
-5. Run the script using `python chatbot.py`.
+1. Open Command Prompt in Your PC
+2. Clone this repository to your local machine using `git clone https://github.com/Insider4444/chatbot-using-api` or Download this Repo as Zip
+3. Install the required Python modules by running `pip install -r requirements.txt`.
+4. Get your RapidAPI API key from the [AI Chatbot API page](https://rapidapi.com/farish978/api/ai-chatbot/).
+5. Replace `"Your Rapid Api Headers Here"` in the script with your RapidAPI API key.
+6. Run the script using `python chatbot.py`.
 
 ## Usage
 
